@@ -4,7 +4,7 @@
  * User: lvfk
  * Date: 2018/2/3 0003
  * Time: 17:06
- * Desc:
+ * Desc: send mail
  */
 
 namespace lvfk\mailerqueue;
